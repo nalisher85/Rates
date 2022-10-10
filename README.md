@@ -28,9 +28,10 @@
 
 **Screens:**
 
-<img alt="img_1.png" height="450" src="img_1.png" width="200"/>
+<img alt="img_1.png" height="400" src="img_1.png" width="200"/>
 
-![img_2.png](img_2.png)
-![img_3.png](img_3.png)
+<img alt="img_2.png" height="400" src="img_2.png" width="200"/>
+
+<img alt="img_3.png" height="400" src="img_3.png" title="Сортировка" width="200"/>
 
 
