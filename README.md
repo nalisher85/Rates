@@ -28,6 +28,6 @@
 
 **Screens:**
 
-<img alt="img_1.png" height="400" src="img_1.png" width="200"/> <img alt="img_2.png" height="400" src="img_2.png" width="200"/> <img alt="img_3.png" height="400" src="img_3.png" title="Сортировка" width="200"/>
+<img alt="img_1.png" height="400" src="img_1.png" title="Популярные" width="200"/> <img alt="img_2.png" height="400" src="img_2.png" title="Избранные" width="200"/> <img alt="img_3.png" height="400" src="img_3.png" title="Сортировка" width="200"/>
 
 
