@@ -25,3 +25,10 @@
 через NavController. Вызвавший это окно подписывается на результат и, при получении опции, применяет сортировку.
 
 **Стек технологий:** Kotlin, MVVM, StateFlow, Coroutines, Room, Hilt, Jetpack Compose, Retrofit, Navigation component
+
+**Screens:**
+
+![](C:\Users\admin\Desktop\Screenshot_1665377159.png)
+![](C:\Users\admin\Desktop\Screenshot_1665377197.png)
+![](C:\Users\admin\Desktop\Screenshot_1665377217.png) 
+
