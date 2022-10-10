@@ -28,7 +28,8 @@
 
 **Screens:**
 
-![](C:\Users\admin\Desktop\Screenshot_1665377159.png)
-![](C:\Users\admin\Desktop\Screenshot_1665377197.png)
-![](C:\Users\admin\Desktop\Screenshot_1665377217.png) 
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
+![img_3.png](img_3.png)
+
 
